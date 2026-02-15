@@ -1,0 +1,7 @@
+setuptools>=70.0.0       # Python packaging + CLI entry points
+pycryptodome>=3.20.0     # AES-256 encryption
+requests>=2.31.0         # OSINT username checks  
+qrcode[pil]>=7.4.2       # QR code generation
+pyperclip>=1.8.2         # Clipboard operations
+keyring>=24.3.0          # Secure storage
+colorama>=0.4.6          # Cross-platform colors
