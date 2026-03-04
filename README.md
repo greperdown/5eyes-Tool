@@ -18,6 +18,8 @@
 ## Quick Start
 
 ```bash
+python3 -m venv venv
+source venv/bin/bash
 git clone https://github.com/greperdown/5eyes-tool.git
 cd 5eyes-tool
 pip install -r requirements.txt
